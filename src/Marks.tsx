@@ -99,6 +99,7 @@ export default function Marks({
               opacity={0.8}
               fontSize={fontSize}
               children={mark.value}
+              style={{color: 'black}}
             />
           )}
         </G>
