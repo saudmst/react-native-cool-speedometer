@@ -35,7 +35,7 @@ export default function Marks({
   lineCap = 'butt',
   lineColor = 'white',
   lineOpacity = 1,
-  numbersRadius = 17,
+  numbersRadius = 18,
   fontSize = 18,
   lineSize = 12,
   children,
