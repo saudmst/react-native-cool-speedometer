@@ -92,7 +92,7 @@ export default function Marks({
           {mark.isEven && (
             <Text
               {...mark.textProps}
-              fill="white"
+              fill="#7C7C7C"
               textAnchor="middle"
               alignmentBaseline="middle"
               fontFamily={fontFamily}
